@@ -1,5 +1,6 @@
 # DevLOG
 언리얼 엔진 기반 게임 개발 및 툴 제작, Python을 활용한 자동화·데이터 처리, API 설계·통합 기술을 소개합니다.
+
 Learn about Unreal Engine-based game development and tooling, automation and data processing with Python, and API design and integration.
 
 [Click here to go to the introduction page in English](./README_EN.md)
