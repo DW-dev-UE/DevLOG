@@ -1,4 +1,4 @@
-# DevLOG
+![ClipWindowsGIF](https://github.com/user-attachments/assets/cf1eb6a7-9cb7-473f-a95a-5c618cf0dd0e)# DevLOG
 언리얼 엔진 기반 게임 개발 및 툴 제작, Python을 활용한 자동화·데이터 처리, API 설계·통합 기술을 소개합니다.
 
 Learn about Unreal Engine-based game development and tooling, automation and data processing with Python, and API design and integration.
@@ -65,4 +65,10 @@ Learn about Unreal Engine-based game development and tooling, automation and dat
 - **주요 성과**  
   - Steam 플랫폼 출시 및 사용자 피드백 반영  
   - 언리얼 엔진 기반으로 최적화된 빌드 배포  
-  - 커뮤니티 관리 및 업데이트 패치 주기적 진행  
+  - 커뮤니티 관리 및 업데이트 패치 주기적 진행
+ 
+## ![PythonPoweredGIF](https://github.com/user-attachments/assets/4d243764-2072-4da5-bd51-ac2a224a5e1a) Python 프로젝트 모음
+
+아래 프로젝트를 클릭하면 상세한 소개 페이지로 이동합니다.
+
+1. [🗺️ 자동화 도면](#자동화-도면)  
