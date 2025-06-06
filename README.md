@@ -1,4 +1,4 @@
-![ClipWindowsGIF](https://github.com/user-attachments/assets/cf1eb6a7-9cb7-473f-a95a-5c618cf0dd0e)# DevLOG
+# DevLOG
 언리얼 엔진 기반 게임 개발 및 툴 제작, Python을 활용한 자동화·데이터 처리, API 설계·통합 기술을 소개합니다.
 
 Learn about Unreal Engine-based game development and tooling, automation and data processing with Python, and API design and integration.
