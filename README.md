@@ -66,8 +66,9 @@ Learn about Unreal Engine-based game development and tooling, automation and dat
   - Steam 플랫폼 출시 및 사용자 피드백 반영  
   - 언리얼 엔진 기반으로 최적화된 빌드 배포  
   - 커뮤니티 관리 및 업데이트 패치 주기적 진행
- 
-## ![PythonPoweredGIF](https://github.com/user-attachments/assets/4d243764-2072-4da5-bd51-ac2a224a5e1a) Python 프로젝트 모음
+
+---
+## 💻 Python 프로젝트 모음
 
 아래 프로젝트를 클릭하면 상세한 소개 페이지로 이동합니다.
 
